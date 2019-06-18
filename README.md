@@ -1,2 +1,1 @@
-" HealthcareDiagnosis" 
-"# HealthcareDiagnosis" 
+# HealthcareDiagnosis
